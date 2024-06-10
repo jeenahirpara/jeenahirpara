@@ -3,7 +3,7 @@
 ## 📞 Contact Information
 - **Location:** Bengaluru, Karnataka 560068 🏙️
 - **Phone:** +91 96389 16774 📱
-- **Email:** [Jeenahirpara@gmail.com](mailto:Jeenahirpara@gmail.com) 📧
+- **Email:** [jeenahirpara@gmail.com](mailto:jeenahirpara@gmail.com) 📧
 - **LinkedIn:** [Jeena Hirpara](https://www.linkedin.com/in/jeenahirpara/) 🔗
 - **GitHub:** [Jeena Hirpara](https://github.com/jeenahirpara) 🐙
 
